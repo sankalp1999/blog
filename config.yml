@@ -1,0 +1,52 @@
+baseURL: ""
+languageCode: en-us
+title: My Blog
+theme: PaperMod
+
+
+params:
+
+  homeInfoParams:
+    Title: 'Hi there!'
+    Content: 'Welcome to my blog.'
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/dejavucoder"
+    - name: github
+      url: "https://github.com/sankalp1999"
+
+    
+  cover:
+    linkFullImages: true
+  
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+  
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 40
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON # is necessary
