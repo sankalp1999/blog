@@ -1,17 +1,15 @@
 ---
-title: "Some takes on Validation"
+title: "Validation, interaction, manipulation, judgement"
 date: 2022-11-15T00:51:49+05:30
 draft: false
 
-tags: ["thinking", "loneliness", ["work"]]
+tags: ["loneliness", "validation"]
 categories: ["ideas"]
 ---
 
-This can be found in forms of thread on Twitter here
+This can be found in forms of thread on Twitter [here](https://twitter.com/dejavucoder/status/1541021193066512384?s=20&t=Z7UcZKMkPTbnsbol6bIbvA)
+and [here](https://twitter.com/dejavucoder/status/1541641521371697152?s=20&t=n448y9O9Ov2yT_eKqNnznA)
 
-{{< tweet user="dejavucoder" id="1541021193066512384" >}}
-
-{{< tweet user="dejavucoder" id="1541641521371697152" >}}
 ## The Case Of Validation
 
 Getting validation for your work or your takes... from someone you admire is high likely to mean that they respect you a little bit more than earlier. This enables you to interact with them more easily. Validation is not always about dopamine hits or inflating your ego. 
