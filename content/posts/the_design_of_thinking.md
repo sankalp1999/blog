@@ -2,6 +2,9 @@
 title: "The Role of randomness in Thinking"
 date: 2022-11-14T23:32:36+05:30
 draft: false
+
+tags: ["thinking", "randomness"]
+categories: ["ideas"]
 ---
 
 You can read this article as a Twitter thread here {{< tweet user="dejavucoder" id="1493634663872491522" >}}
