@@ -8,14 +8,11 @@ params:
 
   homeInfoParams:
     Title: 'Hi there!'
-    Content: 'Welcome to my blog.'
+    Content: 'Welcome to this space. I believe you stumbled across this place on Twitter (long live the app). I will store some of my 
+    better threads and shitposts here. I am also planning to write some small essays here.'
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/dejavucoder"
-    - name: github
-      url: "https://github.com/sankalp1999"
-
-    
+      url: "https://twitter.com/dejavucoder"    
   cover:
     linkFullImages: true
   
