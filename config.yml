@@ -3,6 +3,7 @@ languageCode: en-us
 title: My Blog
 theme: PaperMod
 
+googleAnalytics: G-ENSSZR6N9K
 
 params:
 
@@ -26,8 +27,6 @@ params:
   ShowPostNavLinks: true
 
   env: production
-
-  googleAnalytics: G-ENSSZR6N9K
 
 menu:
   main:
