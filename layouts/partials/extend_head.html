@@ -2,6 +2,8 @@
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
 
+{{ template "_internal/google_analytics.html" . }}
+
 {{- if .Site.Params.analytics.google.AnalyticsId }}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.google.AnalyticsId }}"></script>
