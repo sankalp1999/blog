@@ -8,8 +8,9 @@ params:
 
   homeInfoParams:
     Title: 'Hi there!'
-    Content: 'Welcome to this space. I believe you stumbled across this place on Twitter (long live the app). I will store some of my 
-    better threads and shitposts here. I am also planning to write some small essays here.'
+    Content: 'Welcome! I believe you stumbled across this place on Twitter (long live the app). I will store some of my 
+    better threads and shitposts here, also planning to write some small essays and documenting stuff on a weekly/monthly basis.'
+    
   socialIcons:
     - name: twitter
       url: "https://twitter.com/dejavucoder"    
@@ -23,6 +24,8 @@ params:
   ShowShareButtons: true
 
   ShowPostNavLinks: true
+
+  env: production
 
   googleAnalytics: G-ENSSZR6N9K
 

@@ -3,8 +3,8 @@ title: "2 minute Maggi with Naval"
 date: 2022-11-15T00:21:27+05:30
 draft: false
 
-tags: [shitpost]
-categories: [funny]
+tags: [funny]
+categories: [shitpost]
 ---
 
 This is available as a Twitter thread (till the app survives) {{< tweet user="dejavucoder" id="1507212648529629191" >}} 
