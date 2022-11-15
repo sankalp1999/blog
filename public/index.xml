@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 00:51:49 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Validation, interaction, manipulation, judgement</title>
+      <link>/posts/validation/</link>
+      <pubDate>Tue, 15 Nov 2022 00:51:49 +0530</pubDate>
+      
+      <guid>/posts/validation/</guid>
+      <description>This can be found in forms of thread on Twitter here and here
+The Case Of Validation Getting validation for your work or your takes&amp;hellip; from someone you admire is high likely to mean that they respect you a little bit more than earlier. This enables you to interact with them more easily. Validation is not always about dopamine hits or inflating your ego.
+The right amount of validation makes interactions easier.</description>
+    </item>
+    
+    <item>
+      <title>2 minute Maggi with Naval</title>
+      <link>/posts/naval_and_the_maggi_connection/</link>
+      <pubDate>Tue, 15 Nov 2022 00:21:27 +0530</pubDate>
+      
+      <guid>/posts/naval_and_the_maggi_connection/</guid>
+      <description>This is available as a Twitter thread (till the app survives) Making Maggi started taking exactly 2 minutes the day I finished reading the Almanack of Naval Ravikant.
+&amp;mdash; Sankalp Shubham (@dejavucoder) March 25, 2022 Making Maggi started taking exactly 2 minutes the day I finished reading the Almanack of Naval Ravikant.
+A few days back it took me &amp;gt;= 10 minutes. But I noticed that Manas could make it in 2 minutes.</description>
+    </item>
+    
+    <item>
+      <title>The Role of randomness in Thinking</title>
+      <link>/posts/the_design_of_thinking/</link>
+      <pubDate>Mon, 14 Nov 2022 23:32:36 +0530</pubDate>
+      
+      <guid>/posts/the_design_of_thinking/</guid>
+      <description>You can read this article as a Twitter thread here I was solving an algorithmic problem recently. Not seen it before. Worked out some examples. Thought of a brute force solution. Brainstormed on possible methods. Tried to fit in some paradigms.
+Then slowly, converged towards an optimal solution. But this led me to think
+&amp;mdash; Sankalp Shubham (@dejavucoder) February 15, 2022 The problem solving grind I was solving an unseen algorithmic problem on Leetcode recently.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

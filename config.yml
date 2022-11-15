@@ -24,6 +24,8 @@ params:
 
   ShowPostNavLinks: true
 
+  googleAnalytics: G-ENSSZR6N9K
+
 menu:
   main:
     - identifier: categories

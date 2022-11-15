@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shitpost on My Blog</title>
+    <link>/tags/shitpost/</link>
+    <description>Recent content in shitpost on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 00:21:27 +0530</lastBuildDate><atom:link href="/tags/shitpost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 minute Maggi with Naval</title>
+      <link>/posts/naval_and_the_maggi_connection/</link>
+      <pubDate>Tue, 15 Nov 2022 00:21:27 +0530</pubDate>
+      
+      <guid>/posts/naval_and_the_maggi_connection/</guid>
+      <description>This is available as a Twitter thread (till the app survives) Making Maggi started taking exactly 2 minutes the day I finished reading the Almanack of Naval Ravikant.
+&amp;mdash; Sankalp Shubham (@dejavucoder) March 25, 2022 Making Maggi started taking exactly 2 minutes the day I finished reading the Almanack of Naval Ravikant.
+A few days back it took me &amp;gt;= 10 minutes. But I noticed that Manas could make it in 2 minutes.</description>
+    </item>
+    
+  </channel>
+</rss>

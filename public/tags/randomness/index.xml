@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>randomness on My Blog</title>
+    <link>/tags/randomness/</link>
+    <description>Recent content in randomness on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 23:32:36 +0530</lastBuildDate><atom:link href="/tags/randomness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of randomness in Thinking</title>
+      <link>/posts/the_design_of_thinking/</link>
+      <pubDate>Mon, 14 Nov 2022 23:32:36 +0530</pubDate>
+      
+      <guid>/posts/the_design_of_thinking/</guid>
+      <description>You can read this article as a Twitter thread here I was solving an algorithmic problem recently. Not seen it before. Worked out some examples. Thought of a brute force solution. Brainstormed on possible methods. Tried to fit in some paradigms.
+Then slowly, converged towards an optimal solution. But this led me to think
+&amp;mdash; Sankalp Shubham (@dejavucoder) February 15, 2022 The problem solving grind I was solving an unseen algorithmic problem on Leetcode recently.</description>
+    </item>
+    
+  </channel>
+</rss>
