@@ -2,14 +2,15 @@
 title: "Twitter for dummies and how to bring out your inner Tweep"
 date: 2022-11-16T13:01:14+05:30
 draft: false
+
+tags: ["gyaan", "insightful"]
+categories: ["ideas", "twitter"]
 ---
 
-Note: 99% complete, still editing however made it public anyways lol.
-
-## Welcome.
+## Welcome comrade.
 
 You finally joined Twitter or you finally decided to stop just reading and RTing? Great!
-Welcome comrade. I am here to fill your head with some ideas so that you can build upon them as this new experience unfolds. Wait wait! you already have been here on the platform for some time, you are welcome to read. 
+I am here to fill your head with some ideas so that you can build upon them as this new experience unfolds. Wait wait! you already have been here on the platform for some time, you are welcome to read. 
 
 Also, this is not a 0 to 100 follower guide or a growth hack guide. I do talk about follower growth but it’s more about how you can improve your Twitter experience.
 
@@ -125,7 +126,7 @@ Btw anon accounts have the most interesting tweets (once you discover your taste
 
 There are some great accounts like naval (takes on life) , shreyas (tech), David Perell, Andrew Huberman etc. whom you should absolutely follow. I will leave this to your tastes and interests.
 
-### **Types of twitter users based on time spent**
+### Types of twitter users based on time spent
 
 - Lurkers (these people just read stuff and take screenshots and gossip on whatsapp groups). They don't tweet.
 - Occasional posters
@@ -140,6 +141,7 @@ The people you want to be friends with are the occasional poster, active and add
 I can go into more nuances (btw, nuance is a word which you might encounter a lot on twitter) but will keep it simple.
 
 - Content Creator / Marketing motivation => where they are selling something, tweets are mostly for the sake of engagement, marketing, gain clout. They are here to build an audience and monetise.
+
 - Genuine tweeps/  little Marketing motivation => they like engagement but they shitpost and nerdpost, talk, interact. Here for fun.
 
 If you want to gain clout, do content creation, your goal should be to obviously gain your following by whatever content strategy you have share resources, tips, materials, anecdotes. And you wanna grab the attention of these folks and collaborate with them, conduct spaces etc.
@@ -148,9 +150,9 @@ If you are on Twitter not to gain clout but for making a good netowrk, entertain
 
 ## Finding "good mutuals/followers" aka friends
 
-You want some people to interact and share your ideas. Best case outcome is conversion from interactions to DM. DM to whatsapp. Finally, real life although i guess whatsapp also counts xD.
+You want some people to interact and share your ideas. Best case outcome is conversion from interactions to DM. DM to whatsapp. Finally, real life although I guess whatsapp also counts xD.
 
-Please, please read this thread by Amul. He's the OG networking guru. (Despite his follower count, if you give him thoughtful replies, he will interact with you. Your aim should be to make similar friends). I have mentioned same text in a quote below the thread.
+Please read this thread by Amul. He's the OG networking guru. (Despite his follower count, if you give him thoughtful replies, he will interact with you. Your aim should be to make similar friends). I have mentioned same text in a quote below the thread.
 
 
 {{< tweet user="amuldotexe" id="1436978387508031493" >}}
@@ -184,7 +186,7 @@ Finding your tribe/tribes is the essence of Twitter experience and it requires a
 
 ## The Engagement Equation
 
-[View Tweet Analytics](/resources/_gen/images/impression.png)
+![View Tweet Analytics](/resources/_gen/images/impression.png)
 
 You want your tweets to get smashed on other people's faces. For that you need ************************engagement.************************ 
 
