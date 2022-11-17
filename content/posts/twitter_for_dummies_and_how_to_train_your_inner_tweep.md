@@ -9,10 +9,15 @@ categories: ["ideas", "twitter"]
 
 ## Welcome comrade.
 
-You finally joined Twitter or you finally decided to stop just reading and RTing? Great!
-I am here to fill your head with some ideas so that you can build upon them as this new experience unfolds. Wait wait! you already have been here on the platform for some time, you are still welcome to read. 
+So you finally joined Twitter? 
 
-Also, this is not a 0 to 100 follower guide or a growth hack guide. I do talk about follower growth but it’s more about how you can improve your Twitter experience.
+No? ok you decided to stop reading and RTing and finally post something? Great!
+
+Wait wait! you already have been here on the platform for some time, you are still welcome to read. 
+
+I am here to fill you in with some ideas so that you can build upon them as this new experience unfolds. 
+
+This is not a 0 to 100 follower guide or a growth hack guide. I do talk about follower growth but it’s more about how you can improve your Twitter experience.
 
 ## The first thing I ask you.
 
