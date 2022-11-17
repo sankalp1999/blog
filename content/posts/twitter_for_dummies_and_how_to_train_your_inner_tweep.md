@@ -1,5 +1,5 @@
 ---
-title: "Twitter for dummies and how to bring out your inner Tweep"
+title: "Twitter for dummies and how to bring out your inner Tweep v1"
 date: 2022-11-16T13:01:14+05:30
 draft: false
 
@@ -10,7 +10,7 @@ categories: ["ideas", "twitter"]
 ## Welcome comrade.
 
 You finally joined Twitter or you finally decided to stop just reading and RTing? Great!
-I am here to fill your head with some ideas so that you can build upon them as this new experience unfolds. Wait wait! you already have been here on the platform for some time, you are welcome to read. 
+I am here to fill your head with some ideas so that you can build upon them as this new experience unfolds. Wait wait! you already have been here on the platform for some time, you are still welcome to read. 
 
 Also, this is not a 0 to 100 follower guide or a growth hack guide. I do talk about follower growth but it’s more about how you can improve your Twitter experience.
 
@@ -35,7 +35,7 @@ Later, my goals changed a bit or you can the following reasons got added
 
 and some more reasons....
 
-Here is one interesting **[read](https://manassaloi.com/2021/11/19/why-tweet.html)** by Manas Saloi who is ****regarded as one of the best shitposters on Twitter in my circles.
+Here is one interesting **[read](https://manassaloi.com/2021/11/19/why-tweet.html)** by Manas Saloi who is regarded as one of the best shitposters on Twitter in my circles.
 
 > Twitter helps to discover your tastes and interests to some extent, so you may discover more reasons and goals as your twitter journey unfolds (as with any adventure)
 > 
