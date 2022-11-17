@@ -1,13 +1,10 @@
 ---
-title: "Twitter_for_dummies_and_how_to_train_your_inner_tweep"
+title: "Twitter for dummies and how to bring out your inner Tweep"
 date: 2022-11-16T13:01:14+05:30
 draft: false
 ---
 
-(Work in progress article, not officially released LOL) 99% complete, editing remaining
-You can give feedback on Twitter.
-
-# twitter onboarding for dummies (and how to amplify your experience)
+Note: 99% complete, still editing however made it public anyways lol.
 
 ## Welcome.
 
@@ -26,7 +23,7 @@ I had joined Twitter for the following reasons
 - The serendipity aspect / to increase my luck by increasing visibility. Follow [David](https://twitter.com/david_perell/status/1222946373445869568?s=20&t=-G7q40eUDMARMKiY1nwEqw)
 - Learn more about my niche and the related people
 - Discuss my ideas, find a tribe who resonates or gives feedback
-- To sharpen my writing and thinking skills ( refering Manas Saloi **here**)
+- To sharpen my writing and thinking skills
 
 Later, my goals changed a bit or you can the following reasons got added
 
@@ -37,7 +34,7 @@ Later, my goals changed a bit or you can the following reasons got added
 
 and some more reasons....
 
-Here is one interesting **r[ead](https://manassaloi.com/2021/11/19/why-tweet.html)** by Manas Saloi who is ****regarded as one of the best shitposters on Twitter in my circles.
+Here is one interesting **[read](https://manassaloi.com/2021/11/19/why-tweet.html)** by Manas Saloi who is ****regarded as one of the best shitposters on Twitter in my circles.
 
 > Twitter helps to discover your tastes and interests to some extent, so you may discover more reasons and goals as your twitter journey unfolds (as with any adventure)
 > 
@@ -53,7 +50,7 @@ Critical thinking is essential for a good twitter experience.
 
 Ok you have decided to post some tweets right? start posting! 
 
-But wait, you have very less followers. You need to gain some. I will ramble on and on how to gain “good” followers throughout the rest of this blog.
+But wait, you have less followers and you do need some to read your stuff. I will ramble on and on how to gain “good” followers throughout the rest of this blog.
 
 > Don't be like: yo I don't need followers. imma gonna just post stuff here. 
 Nope. You need some followers to read your stuff, people who resonate with you, who can offer other view points and point out your mistakes or RT them lol if they find it good
@@ -79,21 +76,23 @@ I follow mostly around 450 - 500 people. (getting a follow back from me is prett
 
 These may include people of your areas of interest, niche, people whose takes you like etc. and people you followed back based on interaction.
 
-**********************************************************************The idea is to define a threshold. I suggest 256 or 512. Defining a threshold promotes quality control.**********************************************************************
+**The idea is to define a threshold. I suggest 256 or 512. Defining a threshold promotes quality control.**
 
-********************************************************************************************************************************************Another observation is when you follow 1000 or 2000s of people with a low follower count (Following : Follower ratio is important)**********************************************************************, I sense that you do not care a lot about your SNR.********************************************************************** You are also less likely to interact with me too because I will appear lesser in your timeline (exception being you already interact with me). You can draw some more corollaries via this.
+**Another observation is when you follow 1000 or 2000s of people with a low follower count (Following : Follower ratio is important)**
+**, I sense that you do not care a lot about your SNR.** You are also less likely to interact with me too because I will appear lesser in your timeline (exception being you already interact with me). You can draw some more corollaries via this.
 
 ### Timeline curation, creative and analytical elimination
 
-When you join the platform, I suggest to aggressively follow people based on your interests 
-till you reach say 75% of the threshold. Leave some space for mutuals/follow backs.
+When you join the platform or if you are about to follow people, I suggest to aggressively follow people based on your interests 
+till you reach say 75% of the threshold; leave some space for mutuals/follow backs.
 
-> understand that this is a discovery process. this is best performed by the creative brain or when your analytical brain is not active. You write first, then you edit. Following aggressively is to write the draft first.
+> Understand that this is a discovery process. This is best performed by the creative brain or when your analytical brain is not active (yeah, I know this sounds a hand-wavy but ok). You write first, then you edit. Following aggressively is to write the draft first.
 > 
 
 When you scroll and read tweets, you can unfollow non-mutuals based on whether you don’t like / despise their tweets. Mostly based on the vibes, feels and instinct. → **creative process**
 
 You can occasionally reflect on people you are following and unfollow in bulk (those who do not interact, those who are inactive etc.). → **analytical process**
+
 I found the creative process spread over the long term to work more accurately for me. It helps to uncover what i like and don’t like. 
 
 **Sidenote**: when you are a low follower account, it's better to follow back. However, if you want to be selective, follow back folks who interact with you. (This works well when you grow a bit say >500 followers)
@@ -122,7 +121,7 @@ Say you want to join BLR twitter, follow someone who seems to be at center of BL
 
 Btw anon accounts have the most interesting tweets (once you discover your taste)
 
-### Absolute follows
+### Must follows
 
 There are some great accounts like naval (takes on life) , shreyas (tech), David Perell, Andrew Huberman etc. whom you should absolutely follow. I will leave this to your tastes and interests.
 
@@ -134,7 +133,7 @@ There are some great accounts like naval (takes on life) , shreyas (tech), David
 - Addicted (Not me) - are more active than active people
 - Celebs/Content Creators/Influencers - millions of followers, they rarely interact with you
 
-The people you wanna be friends with are the occasional poster, active and addicted category. 
+The people you want to be friends with are the occasional poster, active and addicted category. 
 
 ### Types based on motivation
 
@@ -147,13 +146,45 @@ If you want to gain clout, do content creation, your goal should be to obviously
 
 If you are on Twitter not to gain clout but for making a good netowrk, entertainment, enjoyment, discussing ideas, then you wanna be friends with genuine tweeps. Target certain niche and ecosystem people. I am more into this, so is the blog inclined towards being a genuine tweep.
 
-## **Finding "good mutuals/followers" aka friends**
+## Finding "good mutuals/followers" aka friends
 
 You want some people to interact and share your ideas. Best case outcome is conversion from interactions to DM. DM to whatsapp. Finally, real life although i guess whatsapp also counts xD.
 
-Please, please read this thread by Amul. He's the OG networking guru. (Despite his follower count, if you give him thoughtful replies, he will interact with you. Your aim should be to make similar friends)
+Please, please read this thread by Amul. He's the OG networking guru. (Despite his follower count, if you give him thoughtful replies, he will interact with you. Your aim should be to make similar friends). I have mentioned same text in a quote below the thread.
 
-https://twitter.com/amuldotexe/status/1436978387508031493?s=20&t=WorbvDUmjXaHFcu5tO4b1w
+
+{{< tweet user="amuldotexe" id="1436978387508031493" >}}
+
+
+> Twitter growth doesn't have to be about followers only 🙃
+
+Unique folks I interacted with in last 1 year by level of interaction👇
+
+L1 Meaningful one time DMs : 83
+L2 Long engaging DMs : 61
+L3 IRL (Zoom/Phone) conversations : 15
+L4 Repeated IRL talks & friendship : 6
+
+L1 is mostly a genuine sync between you & a person (supported by public likes & comments).
+Didn't count transactional messages (referrals or single URLs etc).
+
+L2 is the true magic of twitter.
+
+This is where you are finding your tribe & having a deeper conversation.
+This conversation is often async spanning days.
+So many interesting insights uncovered in free flowing thoughts  ...
+
+L3 is a bit nuanced.
+
+Given the context of India, we the people (including me) aren't comfortable sharing contact number.
+I always prefer a Google meet/ Telegram connect rather than WA/Phone. It makes everyone feel safer.
+Respect people's time - be prepared/have clarity.
+
+
+L4 is simply letting serendipity play out.
+Be genuine even if it's against what people want to hear in a very polite & balanced manner (try not to be a yes person). 
+
+Anyone had a similar experience which was beyond "let's gather more followers" 🙃
 
 Finding your tribe/tribes is the essence of Twitter experience and it requires a decent amount of time and energy investment.
 
