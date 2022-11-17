@@ -21,7 +21,7 @@ This is not a 0 to 100 follower guide or a growth hack guide. I do talk about fo
 
 ## The first thing I ask you.
 
-### why have you joined twitter? what brings you here?
+### Why have you joined twitter? what brings you here?
 
 I had joined Twitter for the following reasons
 
@@ -31,30 +31,30 @@ I had joined Twitter for the following reasons
 - Discuss my ideas, find a tribe who resonates or gives feedback
 - To sharpen my writing and thinking skills
 
-Later, my goals changed a bit or you can the following reasons got added
+My goals changed a bit later or you can say I discovered some more goals/reasons
 
 - entertainment
 - shitposting (oversimplifying: sort of memes but text version)
 - talking to new people, each offering different perspectives. My DMs vary from age 16 to 60. The variety of people I met here, the things they told, even found some absolutely amazing mentors.
 - entertainment and drama again
 
-and some more reasons....
+(not mentioning any more here xD)
 
-Here is one interesting **[read](https://manassaloi.com/2021/11/19/why-tweet.html)** by Manas Saloi who is regarded as one of the best shitposters on Twitter in my circles.
+Here is an interesting **[read](https://manassaloi.com/2021/11/19/why-tweet.html)** by Manas Saloi who is regarded as one of the best shitposters on Twitter in my circles.
 
 > Twitter helps to discover your tastes and interests to some extent, so you may discover more reasons and goals as your twitter journey unfolds (as with any adventure)
 > 
 
 ### Useful concepts for navigating the internet in general
 
-- Mimesis (we tend to copy others), think for yourself
-- I want you to watch this [video](https://www.bbc.co.uk/ideas/videos/five-simple-ways-to-sharpen-your-critical-thinking/p0929tns) on critical thinking in the age of internet
+- Mimesis (we tend to copy others), so think for yourself.
+- I want you to watch this [video](https://www.bbc.co.uk/ideas/videos/five-simple-ways-to-sharpen-your-critical-thinking/p0929tns) on critical thinking in this information age.
 
 Critical thinking is essential for a good twitter experience.
 
 ## New poster?
 
-Ok you have decided to post some tweets right? start posting! 
+So you have decided to post some tweets right? start posting! 
 
 But wait, you have less followers and you do need some to read your stuff. I will ramble on and on how to gain “good” followers throughout the rest of this blog.
 
@@ -76,7 +76,7 @@ Avoid following based on twitter’s recos. It tends to suggest people who have 
 
 ### Define a threshold for quality control
 
-If you want high signal to noise ratio, follow less people to avoid chaos. Max 100-150 people of areas of interest. You can additionally **use lists** for people in areas of interest, the near celeb status ones because they are almost never going to interact with you.
+If you want high signal to noise ratio, follow less people. Max 100-150 people of areas of interest. You can additionally **use lists** for people in areas of interest, the near celeb status ones because they are almost never going to interact with you.
 
 I follow mostly around 450 - 500 people. (getting a follow back from me is pretty hard, haha)
 
@@ -84,15 +84,15 @@ These may include people of your areas of interest, niche, people whose takes yo
 
 **The idea is to define a threshold. I suggest 256 or 512. Defining a threshold promotes quality control.**
 
-**Another observation is when you follow 1000 or 2000s of people with a low follower count (Following : Follower ratio is important)**
-**, I sense that you do not care a lot about your SNR.** You are also less likely to interact with me too because I will appear lesser in your timeline (exception being you already interact with me). You can draw some more corollaries via this.
+Another observation is when you follow 1000 or 2000s of people with a low follower count (Following : Follower ratio is important)
+, **I sense that you do not care a lot about your SNR.** You are less likely to interact with me too because I will appear lesser in your timeline (exception being you already interact with me). You can draw some more corollaries via this.
 
 ### Timeline curation, creative and analytical elimination
 
-When you join the platform or if you are about to follow people, I suggest to aggressively follow people based on your interests 
+When you join the platform (or if you are yet to follow people), I suggest to aggressively based on your interests 
 till you reach say 75% of the threshold; leave some space for mutuals/follow backs.
 
-> Understand that this is a discovery process. This is best performed by the creative brain or when your analytical brain is not active (yeah, I know this sounds a hand-wavy but ok). You write first, then you edit. Following aggressively is to write the draft first.
+> This is a discovery process. This is best performed by the creative brain or when your analytical brain is not active (yeah, I know this sounds a hand-wavy but ok). You write first, then you edit. Following aggressively is to write the draft first.
 > 
 
 When you scroll and read tweets, you can unfollow non-mutuals based on whether you don’t like / despise their tweets. Mostly based on the vibes, feels and instinct. → **creative process**
