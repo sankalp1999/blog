@@ -186,7 +186,8 @@ Finding your tribe/tribes is the essence of Twitter experience and it requires a
 
 ## The Engagement Equation
 
-![View Tweet Analytics](/resources/_gen/images/impression.png)
+
+![View Tweet Analytics](/content//posts/images/impression.png)
 
 You want your tweets to get smashed on other people's faces. For that you need ************************engagement.************************ 
 
@@ -195,7 +196,7 @@ You want your tweets to get smashed on other people's faces. For that you need *
 - genuine/valuable/interesting ideas
 - certain keywords/trends (don't spam, OKAY??)
 - twitter algorithm
-- higher than your follower count friend/sugar daddy accounts/ Authenticator APIs (as @ghuubear calls them)
+- higher than your follower count friend/sugar daddy accounts/ influential accounts (Authenticator APIs as @ghuubear calls them)
 
 If you are here to market, then go ahead with your content strategy. Document your journey, collaborate with people, share useful resources, write some useful threads (not copypasta)
 
@@ -255,25 +256,21 @@ There are lots of absolutely amazing people with low follower counts. You wanna 
 
 You can practice the above points for people with whom you genuinely / naturally want to interact with. We want a good network, which feels not artificial.
 
-### My riffs to the idea of shitposting+nerdposting
+### My to the idea of shitposting+nerdposting
 
-< insert image of the shitposting is the equivalent of small talk  tweet>
 
-https://twitter.com/dejavucoder/status/1567474195612991488?s=20&t=WorbvDUmjXaHFcu5tO4b1w
+{{< tweet user="dejavucoder" id="1592768202383429632">}}
 
-You want to increase engagement
 
-- Do more shitposting
+You want to increase engagement: Do more shitposting
 
-You want to share ideas and engagement is going decent
-
-- Do nerdposting.
+You want to share ideas and engagement is going decent: Do nerdposting.
 
 Also interact whenever you feel you have something okayish to add to but respect the time....
 
 Once you have 200-300 followers of tribe, you may choose to nerdpost all the time. Again depends on you. My job is to give some ideas in this blog.
 
-## Tips for smoother experience
+## Tips for smoother experience (Twitter etiquette)
 
 - don’t take tweets so seriously, give benefit of doubt for offensive replies (people are often sleep deprived and in bad mood/suffering. hard to do i know)
 - quote tweet not for dunking (especially non-mutuals) but to support or add
@@ -282,7 +279,8 @@ Once you have 200-300 followers of tribe, you may choose to nerdpost all the tim
 - stay away/be careful from outrage/toxic accounts
 
 ## More pointers on making good mutuals
-
+- The kind of people you attract highly depends on how good you are with words, substance, randomness favouring you(luck), 
+influential accounts following you etc.
 - shitposting and interacting with all people (outside niche too) works well. IMO, this is the best way to gain like-minded people.
 - Your wordcel and interestingness/genuineness/funniness/schizonesss/"value"
 - interact with people of niche (fast follow back)
@@ -291,6 +289,5 @@ Once you have 200-300 followers of tribe, you may choose to nerdpost all the tim
 - Embrace slow growth. When you are a small account, you can tweet more unhinged stuff haha (if you are not an anon account) and interact with people easily
 
 > Slow is smooth. Smooth is fast.
->
 
 
