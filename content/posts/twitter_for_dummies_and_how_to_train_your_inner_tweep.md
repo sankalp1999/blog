@@ -89,6 +89,8 @@ Another observation is when you follow 1000 or 2000s of people with a low follow
 
 ### Timeline curation, creative and analytical elimination
 
+> optimise for what you want to see more of - @visakanv
+
 When you join the platform (or if you are yet to follow people), I suggest to aggressively based on your interests 
 till you reach say 75% of the threshold; leave some space for mutuals/follow backs.
 
@@ -97,7 +99,7 @@ till you reach say 75% of the threshold; leave some space for mutuals/follow bac
 
 When you scroll and read tweets, you can unfollow non-mutuals based on whether you don’t like / despise their tweets. Mostly based on the vibes, feels and instinct. → **creative process**
 
-You can occasionally reflect on people you are following and unfollow in bulk (those who do not interact, those who are inactive etc.). → **analytical process**
+You can occasionally reflect on people you have followed and unfollow in bulk (those who do not interact, those who are inactive etc.). → **analytical process**
 
 I found the creative process spread over the long term to work more accurately for me. It helps to uncover what i like and don’t like. 
 
@@ -120,20 +122,20 @@ Say you want to join BLR twitter, follow someone who seems to be at center of BL
 
 ### The credibility equation
 
-- followed by (especially how many good mutuals of yours follow this person)
-- bio (covered later in the blog)
-- their takes
-- fuck credibility, just follow that schizo anon if you like their tweets
+- Followed by (especially how many good mutuals of yours follow this person). It's visible below the bio.
+- Bio (covered later in the blog)
+- Their takes
+- Fuck credibility, just follow that schizo anon if you like their tweets
 
 Btw anon accounts have the most interesting tweets (once you discover your taste)
 
 ### Must follows
 
-There are some great accounts like naval (takes on life) , shreyas (tech), David Perell, Andrew Huberman etc. whom you should absolutely follow. I will leave this to your tastes and interests.
+There are some great accounts like naval (takes on life, business) , shreyas (tech), David Perell(writing, ideas), Andrew Huberman(life, neuroscience) etc. whom you should absolutely follow. I will leave this to your tastes and interests.
 
-### Types of twitter users based on time spent
+### Types of Twitter users based on time spent
 
-- Lurkers (these people just read stuff and take screenshots and gossip on whatsapp groups). They don't tweet.
+- Lurkers (these people typically read stuff and take screenshots and gossip on whatsapp groups). They don't tweet.
 - Occasional posters
 - Active people - post regularly, interact etc.
 - Addicted (Not me) - are more active than active people
@@ -149,15 +151,15 @@ I can go into more nuances (btw, nuance is a word which you might encounter a lo
 
 - Genuine tweeps/  little Marketing motivation => they like engagement but they shitpost and nerdpost, talk, interact. Here for fun.
 
-If you want to gain clout, do content creation, your goal should be to obviously gain your following by whatever content strategy you have share resources, tips, materials, anecdotes. And you wanna grab the attention of these folks and collaborate with them, conduct spaces etc.
+If you want to gain clout, your goal should obviously be to gain your following by whatever content strategy you have share resources, tips, materials, anecdotes. And you wanna grab the attention of these folks and collaborate with them, conduct spaces etc.
 
-If you are on Twitter not to gain clout but for making a good netowrk, entertainment, enjoyment, discussing ideas, then you wanna be friends with genuine tweeps. Target certain niche and ecosystem people. I am more into this, so is the blog inclined towards being a genuine tweep.
+If you are on Twitter not to gain clout but for making a good network, entertainment, enjoyment, discussing ideas, then you wanna be friends with genuine tweeps. Target certain niche and ecosystem people, mixer events (share you handles everywhere lol). I am more into this, so is the blog inclined towards being a genuine tweep.
 
 ## Finding "good mutuals/followers" aka friends
 
 You want some people to interact and share your ideas. Best case outcome is conversion from interactions to DM. DM to whatsapp. Finally, real life although I guess whatsapp also counts xD.
 
-Please read this thread by Amul. He's the OG networking guru. (Despite his follower count, if you give him thoughtful replies, he will interact with you. Your aim should be to make similar friends). I have mentioned same text in a quote below the thread.
+Please read this thread by Amul. He's the OG of networking. (Despite his follower count, if you give him thoughtful replies, he will interact with you. Your aim should be to make similar friends). I have mentioned same text in a quote below the thread.
 
 
 {{< tweet user="amuldotexe" id="1436978387508031493" >}}
@@ -187,8 +189,6 @@ Respect people's time - be prepared/have clarity.
 Finding your tribe/tribes is the essence of Twitter experience and it requires a decent amount of time and energy investment.
 
 
-**The entire blog sort of indirectly focuses on this section.**
-
 ## The Engagement Equation
 
 You want your tweets to get smashed on other people's faces. For that you need **engagement.** 
@@ -196,7 +196,7 @@ You want your tweets to get smashed on other people's faces. For that you need *
 (click on view analtyics to see number of impressions etc. Also, you have Twitter analytics on the platform which I recommend looking into 
 occasionally, it should not get over your head haha)
 
-- shitposts (dating takes work really well)
+- shitposts (dating takes work really well although I don't personally tweet much in this genre for some reasons..)
 - achievements and life updates. I feel somewhat uncomfortable here but it’s good to share your achievements/life updates.
 - genuine/valuable/interesting ideas
 - certain keywords/trends (don't spam, OKAY??)
@@ -212,31 +212,33 @@ Shitposting is pretty broad. Here are some examples, something personal, natural
 > Shitposting is best done naturally, when you get creative bursts/inspiration.
 > 
 
-Ok coming back to the blog, most people do not have the mental bandwidth to read your complex takes, they are on the platform for entertainment so such takes work well.
+Ok coming back to the blog, most people don't have the mental bandwidth to read complex takes, they are on the platform for entertainment and relaxation. This explains the effectiveness of easy takes.
 
 ## **What you post determines the people you attract**
 
-If you post shitposts, people who like shitposting will soon start following you.
+If you post shitposts, people who like shitposting will follow you.
 
 If you post deep takes or tech content or say dating takes, then people who are interested in those topics will follow you.
 
-The kind of tribe you want is heavily determined by the kind of your tweets.
+**The kind of tribe you attract is heavily determined by the kind of your tweets. (pruning through randomness)**
 
-If you tweet only for your college circle or tech circle, your circle will be limited to that for the most part. (You may decide to just post tweets for your niche, that's your choice)
-
-If you tweet on for everybody, not specifically for your college folks, then you will gain a wider audience.
-
-**The main idea here is "How much common context (e.g ideas, interests, taste, knowledge, technical expertise) do you share".**
+If you tweet only for your college circle or tech circle, your circle will be limited to that mostly. (You may decide to just post tweets for your niche, that's your choice)
 
 If you tweet for college circle, you might be having some internal references which outsiders won't understand.
+
+If you tweet for everybody, not specifically for your college folks, then you will gain a wider audience.
+
+> The main idea here is "How much common context (e.g ideas, interests, taste, knowledge, technical expertise) do you share". 
+> The overlap decides who interacts with you.
+
 
 If you tweet deep technical stuff, then only people who minutely understand that will read (if the tweet reaches them).
 
 General relatable takes usually garner a lot of engagement. e.g dating takes are really popular.
 
-Something to which a lot of people can relate to is candidate for high engagement. The caveat is you might have more engagement but not the desired mutuals (say nuanced folks who like to engage in discussion). When i get viral tweets, I gain 50 followers etc. but most of them do not interact with me..
+Something to which a lot of people can relate to is candidate for high engagement. The caveat is you might have more engagement but not the desired mutuals (say nuanced folks who like to engage in discussion). When I get viral tweets, I gain more followers than usual etc. but most of them do not interact with me..
 
-Conversely, if you post stuff which takes some mental energy to read, then people who like that stuff will get attracted but other people are ignored. **This is selective filtering.**
+Conversely, if you post stuff which takes some mental energy to read, then people who like that stuff will get attracted but other people are ignored (and these folks often don't like funny takes xD) **This is selective filtering.**
 
 **You can adjust your following based on what you post to a certain extent.**
 
@@ -277,11 +279,11 @@ Once you have 200-300 followers of tribe, you may choose to nerdpost all the tim
 
 ## Tips for smoother experience (Twitter etiquette)
 
-- don’t take tweets so seriously, give benefit of doubt for offensive replies (people are often sleep deprived and in bad mood/suffering. hard to do i know)
-- quote tweet not for dunking (especially non-mutuals) but to support or add
-- good or genuine reply game. avoid toxicity/offensive remarks
-- avoid talking about politics, gender, religion. Especially the latter two.
-- stay away/be careful from outrage/toxic accounts
+- Don’t take tweets so seriously, give benefit of doubt for offensive replies (people are often sleep deprived and in bad mood/suffering. hard to do I know)
+- Quote tweet not for dunking (especially non-mutuals) but to support or add
+- Good or genuine reply game. avoid toxicity/offensive remarks
+- Avoid talking about politics, gender, religion. Especially the latter two.
+- Stay away/be careful from outrage/toxic accounts
 
 ## More pointers on making good mutuals
 - The kind of people you attract highly depends on how good you are with words, substance, randomness favouring you(luck), 
@@ -290,8 +292,7 @@ influential accounts following you etc.
 - interact with people of niche (fast follow back)
 - go to events / college and tell people your twitter id xD (i have not utilised this at all haha)
 - You can be a reply guy also to larger accounts although this is mostly a waste of time. Those folks do not reply (for reasons i won't explain here). However, you may be a reply guy (good thoughtful or funny replies) to those people who you naturally like and people who are open to replying/discussing stuff. (you can find a lot of such people in <5K follower category)
-- Embrace slow growth. When you are a small account, you can tweet more unhinged stuff haha (if you are not an anon account) and interact with people easily
-
-> Slow is smooth. Smooth is fast.
+- Embrace slow growth. When you are a small account, you can tweet more unhinged stuff haha (if you are not an anon account) and interact with people easily. Slow is smooth. Smooth is fast.
 
 
+End.
