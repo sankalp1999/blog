@@ -186,10 +186,10 @@ Finding your tribe/tribes is the essence of Twitter experience and it requires a
 
 ## The Engagement Equation
 
+You want your tweets to get smashed on other people's faces. For that you need **engagement.** 
 
-![View Tweet Analytics](/content//posts/images/impression.png)
-
-You want your tweets to get smashed on other people's faces. For that you need ************************engagement.************************ 
+(click on view analtyics to see number of impressions etc. Also, you have Twitter analytics on the platform which I recommend looking into 
+occasionally, it should not get over your head haha)
 
 - shitposts (dating takes work really well)
 - achievements and life updates. I feel somewhat uncomfortable here but it’s good to share your achievements/life updates.
@@ -256,7 +256,7 @@ There are lots of absolutely amazing people with low follower counts. You wanna 
 
 You can practice the above points for people with whom you genuinely / naturally want to interact with. We want a good network, which feels not artificial.
 
-### My to the idea of shitposting+nerdposting
+### My riff to the idea of shitposting+nerdposting
 
 
 {{< tweet user="dejavucoder" id="1592768202383429632">}}
