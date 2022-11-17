@@ -282,7 +282,6 @@ Once you have 200-300 followers of tribe, you may choose to nerdpost all the tim
 - The kind of people you attract highly depends on how good you are with words, substance, randomness favouring you(luck), 
 influential accounts following you etc.
 - shitposting and interacting with all people (outside niche too) works well. IMO, this is the best way to gain like-minded people.
-- Your wordcel and interestingness/genuineness/funniness/schizonesss/"value"
 - interact with people of niche (fast follow back)
 - go to events / college and tell people your twitter id xD (i have not utilised this at all haha)
 - You can be a reply guy also to larger accounts although this is mostly a waste of time. Those folks do not reply (for reasons i won't explain here). However, you may be a reply guy (good thoughtful or funny replies) to those people who you naturally like and people who are open to replying/discussing stuff. (you can find a lot of such people in <5K follower category)
