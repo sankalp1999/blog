@@ -1,5 +1,5 @@
 ---
-title: "Twitter for dummies and how to bring out your inner Tweep v1"
+title: "Twitter for dummies and how to bring out your inner Tweep v1.1"
 date: 2022-11-16T13:01:14+05:30
 draft: false
 
@@ -105,33 +105,9 @@ I found the creative process spread over the long term to work more accurately f
 
 **Sidenote**: when you are a low follower account, it's better to follow back. However, if you want to be selective, follow back folks who interact with you. (This works well when you grow a bit say >500 followers)
 
-### Finding your tribe
+## Who to follow, like really.. Finding your tribe
 
-Twitter is for the people, by the people. Use the people as the recommendation algorithm.
-
-See who your mutuals are interacting with. (Use Latest timeline)
-
-- see their replies section
-- see their likes section
-- see the comments section
-- see who they are following (little bit grind)
-
-Say you want to find more people on Art Twitter. Ask your friends or tweet to ask about art people. then follow based 2-3 art people. Then you can follow and explore who replies to them.
-
-Say you want to join BLR twitter, follow someone who seems to be at center of BLR startup twitter. For ex: popular founders or folks like Amul. See who interacts with them, whom they interact with etc. and repeat above.
-
-### The credibility equation
-
-- Followed by (especially how many good mutuals of yours follow this person). It's visible below the bio.
-- Bio (covered later in the blog)
-- Their takes
-- Fuck credibility, just follow that schizo anon if you like their tweets
-
-Btw anon accounts have the most interesting tweets (once you discover your taste)
-
-### Must follows
-
-There are some great accounts like naval (takes on life, business) , shreyas (tech), David Perell(writing, ideas), Andrew Huberman(life, neuroscience) etc. whom you should absolutely follow. I will leave this to your tastes and interests.
+Let's slowly build up from here.
 
 ### Types of Twitter users based on time spent
 
@@ -155,7 +131,34 @@ If you want to gain clout, your goal should obviously be to gain your following 
 
 If you are on Twitter not to gain clout but for making a good network, entertainment, enjoyment, discussing ideas, then you wanna be friends with genuine tweeps. Target certain niche and ecosystem people, mixer events (share you handles everywhere lol). I am more into this, so is the blog inclined towards being a genuine tweep.
 
-## Finding "good mutuals/followers" aka friends
+
+### The Credibility equation
+
+- Followed by (especially how many good mutuals of yours follow this person). It's visible below the bio.
+- Bio (covered later in the blog)
+- Their takes
+- Fuck credibility, just follow that schizo anon if you like their tweets
+
+Btw anon accounts have the most interesting tweets (once you discover your taste)
+
+### Finding your tribe (part 1)
+
+Twitter is for the people, by the people. Use the people as the recommendation algorithm.
+
+See who your mutuals are interacting with. (Use Latest timeline)
+
+- see their replies section
+- see their likes section
+- see the comments section
+- see who they are following (little bit grind)
+
+Say you want to find more people on Art Twitter. Ask your friends or tweet to ask about art people. then follow based 2-3 art people. Then you can follow and explore who replies to them.
+
+Say you want to join BLR twitter, follow someone who seems to be at center of BLR startup twitter. For ex: popular founders or folks like Amul. See who interacts with them, whom they interact with etc. and repeat above.
+
+
+
+## Finding your tribe (part 2): "good mutuals/followers" aka friends
 
 You want some people to interact and share your ideas. Best case outcome is conversion from interactions to DM. DM to whatsapp. Finally, real life although I guess whatsapp also counts xD.
 
@@ -189,7 +192,7 @@ Respect people's time - be prepared/have clarity.
 Finding your tribe/tribes is the essence of Twitter experience and it requires a decent amount of time and energy investment.
 
 
-## The Engagement Equation
+## Letting your tribe find you (Part 3): The Engagement Equation
 
 You want your tweets to get smashed on other people's faces. For that you need **engagement.** 
 
