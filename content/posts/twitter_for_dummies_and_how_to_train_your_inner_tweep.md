@@ -223,7 +223,7 @@ If you tweet on for everybody, not specifically for your college folks, then you
 
 **The main idea here is "How much common context (e.g ideas, interests, taste, knowledge, technical expertise) do you share".**
 
-****If you tweet for college circle, you might be having some internal references which outsiders won't understand.
+If you tweet for college circle, you might be having some internal references which outsiders won't understand.
 
 If you tweet deep technical stuff, then only people who minutely understand that will read (if the tweet reaches them).
 
