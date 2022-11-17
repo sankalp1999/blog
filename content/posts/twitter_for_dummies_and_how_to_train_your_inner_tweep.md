@@ -157,44 +157,34 @@ Please, please read this thread by Amul. He's the OG networking guru. (Despite h
 
 
 > Twitter growth doesn't have to be about followers only 🙃
+> Unique folks I interacted with in last 1 year by level of interaction👇
 
-Unique folks I interacted with in last 1 year by level of interaction👇
-
-L1 Meaningful one time DMs : 83
-L2 Long engaging DMs : 61
+> L1 Meaningful one time DMs : 83
+  L2 Long engaging DMs : 61
 L3 IRL (Zoom/Phone) conversations : 15
 L4 Repeated IRL talks & friendship : 6
-
 L1 is mostly a genuine sync between you & a person (supported by public likes & comments).
 Didn't count transactional messages (referrals or single URLs etc).
 
-L2 is the true magic of twitter.
-
-This is where you are finding your tribe & having a deeper conversation.
-This conversation is often async spanning days.
+> L2 is the true magic of twitter. This is where you are finding your tribe & having a deeper conversation. This conversation is often async spanning days.
 So many interesting insights uncovered in free flowing thoughts  ...
 
-L3 is a bit nuanced.
-
+> L3 is a bit nuanced.
 Given the context of India, we the people (including me) aren't comfortable sharing contact number.
 I always prefer a Google meet/ Telegram connect rather than WA/Phone. It makes everyone feel safer.
 Respect people's time - be prepared/have clarity.
 
+> L4 is simply letting serendipity play out. Be genuine even if it's against what people want to hear in a very polite & balanced manner (try not to be a yes person). 
 
-L4 is simply letting serendipity play out.
-Be genuine even if it's against what people want to hear in a very polite & balanced manner (try not to be a yes person). 
-
-Anyone had a similar experience which was beyond "let's gather more followers" 🙃
-
+> Anyone had a similar experience which was beyond "let's gather more followers" 🙃
 Finding your tribe/tribes is the essence of Twitter experience and it requires a decent amount of time and energy investment.
 
-Bio plays a huge role, have talked about that further in the blog.
 
 **The entire blog sort of indirectly focuses on this section.**
 
-## **The Engagement Equation**
+## The Engagement Equation
 
-insert <image> of twitter impressions
+[View Tweet Analytics](/resources/_gen/images/impression.png)
 
 You want your tweets to get smashed on other people's faces. For that you need ************************engagement.************************ 
 
