@@ -95,18 +95,18 @@ Another observation is when you follow 1000 or 2000s of people with a low follow
 > Optimise for what you want to see more of - @visakanv
 
 When you join the platform (or if you are yet to follow people), I suggest follow aggressively based on your interests 
-till you reach 75% of the threshold; leave some space for mutuals/follow backs.
+till you reach 75% of the threshold; Leave some space for mutuals/follow backs.
 
-> This is a discovery process. This is best performed by the creative brain or when your analytical brain is not active (yeah, I know this sounds a hand-wavy but ok). You write first, then you edit. Following aggressively is to write the draft first.
+> This is a discovery process which is best performed by the creative brain or when your analytical brain is not active (yeah, I know this sounds a hand-wavy but ok). This is similar to write first, then edit and repeat. Following aggressively is to write the draft first.
 > 
 
 When you scroll and read tweets, you can unfollow non-mutuals based on whether you don’t like / despise their tweets. Mostly based on the vibes, feels and instinct. → **creative process**
 
 You can occasionally reflect on people you have followed and unfollow in bulk (those who do not interact, those who are inactive etc.). → **analytical process**
 
-I found the creative process spread over the long term to work more accurately for me. It helps to uncover what i like and don’t like. 
+I found the creative process spreaded over the long term to work more accurately. It helps to uncover what I like and don’t like. 
 
-**Sidenote**: when you are a low follower account, it's better to follow back. However, if you want to be selective, follow back folks who interact with you. (This works well when you grow a bit say >500 followers)
+**Sidenote**: When you are a low follower account, it's better to follow back. However, if you want to be selective, follow back folks who interact with you. (This works well when you grow a bit say >500 followers)
 
 ## Who to follow, like really.. Finding your tribe
 
@@ -128,7 +128,7 @@ I can go into more nuances (btw, nuance is a word which you might encounter a lo
 
 - Content Creator / Marketing motivation => where they are selling something, tweets are mostly for the sake of engagement, marketing, gain clout. They are here to build an audience and monetise.
 
-- Genuine tweeps/  little Marketing motivation => they like engagement but they shitpost and nerdpost, talk, interact. Here for fun.
+- Genuine tweeps /  little Marketing motivation => they like engagement but they shitpost and nerdpost, talk, interact. Here for fun.
 
 If you want to gain clout, your goal should obviously be to gain your following by whatever content strategy you have share resources, tips, materials, anecdotes. And you wanna grab the attention of these folks and collaborate with them, conduct spaces etc.
 
@@ -203,6 +203,7 @@ You want your tweets to get smashed on other people's faces. For that you need *
 occasionally, it should not get over your head haha)
 
 - shitposts (dating takes work really well although I don't personally tweet much in this genre for some reasons..)
+- participate in relevant spaces of friends or influential people (Thank you @satyadeeproat)
 - achievements and life updates. I feel somewhat uncomfortable here but it’s good to share your achievements/life updates.
 - genuine/valuable/interesting ideas
 - certain keywords/trends (don't spam, OKAY??)
