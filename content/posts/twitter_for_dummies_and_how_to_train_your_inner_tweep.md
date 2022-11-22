@@ -25,18 +25,17 @@ This is not a 0 to 100 follower guide or a growth hack guide. I do talk about fo
 
 I had joined Twitter for the following reasons
 
-- For networking opportunities
+- Learn more about my niche, it's people and networking opportunities
 - The serendipity aspect / to increase my luck by increasing visibility. Follow [David](https://twitter.com/david_perell/status/1222946373445869568?s=20&t=-G7q40eUDMARMKiY1nwEqw)
-- Learn more about my niche and the related people
-- Discuss my ideas, find a tribe who resonates or gives feedback
-- To sharpen my writing and thinking skills
+- Find tribes to discuss my ideas
+- To sharpen my writing & thinking skills
 
-My goals changed a bit later or you can say I discovered some more goals/reasons
+New goals added as my journey and intent unfolded
 
 - entertainment
 - shitposting (oversimplifying: sort of memes but text version)
 - talking to new people, each offering different perspectives. My DMs vary from age 16 to 60. The variety of people I met here, the things they told, even found some absolutely amazing mentors.
-- entertainment and drama again
+- entertainment and drama (yes again)
 
 (not mentioning any more here xD)
 
@@ -56,43 +55,47 @@ Critical thinking is essential for a good twitter experience.
 
 So you have decided to post some tweets right? start posting! 
 
-But wait, you have less followers and you do need some to read your stuff. I will ramble on and on how to gain “good” followers throughout the rest of this blog.
+You soon realise you need some followers who read your stuff. You are in good luck because I am going to talk about how to gain “good” followers throughout the rest of this blog.
 
 > Don't be like: yo I don't need followers. imma gonna just post stuff here. 
 Nope. You need some followers to read your stuff, people who resonate with you, who can offer other view points and point out your mistakes or RT them lol if they find it good
 > 
 
-Since I need to write something for this section, here’s an obvious tip. The initial few months are going to be a grind unless you already have some friends who use twitter. You can tell your friends you joined twitter. Some of them might follow you back. (My college friends did, very generous of them to tolerate my early on tweets ooof)
+Here’s an obvious tip. The initial few months are going to be a grind unless you already have some friends who use Twitter. You can tell your friends you joined twitter. Some of them might follow you back. (My college friends did, very generous of them to tolerate my early on tweets ooof)
 
 ## Who not to follow initially and how many to follow?
 
 ### Avoid celebs
 
-First of all, do not follow celebs except the ones you did really want to follow. OKAY??
+Firstly, avoid following celebs except the ones you did really want to follow. Okay?
 
 ### Avoid twitter algorithm follow recos
 
-Avoid following based on twitter’s recos. It tends to suggest people who have high number of followers, whose tweets you have liked/replied. (It’s shitty). 
+Avoid following based on Twitter’s recommendations. It tends to suggest people who have high number of followers, whose tweets you have liked/replied. (It’s shitty). Those folks won't notice you.
 
 ### Define a threshold for quality control
 
-If you want high signal to noise ratio, follow less people. Max 100-150 people of areas of interest. You can additionally **use lists** for people in areas of interest, the near celeb status ones because they are almost never going to interact with you.
+If you want high signal to noise ratio, follow less people. Max 100-150 people of areas of interest. Avoid the near celeb status ones because they are almost never going to interact with you. 
+
+> More the followers, the lesser chance they are going to interact with you
+
+Sidenote: You can additionally **use lists** for different categories.
 
 I follow mostly around 450 - 500 people. (getting a follow back from me is pretty hard, haha)
 
 These may include people of your areas of interest, niche, people whose takes you like etc. and people you followed back based on interaction.
 
-**The idea is to define a threshold. I suggest 256 or 512. Defining a threshold promotes quality control.**
+**The idea is to define a threshold. Defining a threshold promotes quality control. I suggest 256/512.**
 
 Another observation is when you follow 1000 or 2000s of people with a low follower count (Following : Follower ratio is important)
-, **I sense that you do not care a lot about your SNR.** You are less likely to interact with me too because I will appear lesser in your timeline (exception being you already interact with me). You can draw some more corollaries via this.
+, **I sense that you do not care a lot about your SNR.** You are less likely to interact with me too because I will appear lesser in your timeline (exception being you already interact with me). You can draw some more corollaries.
 
 ### Timeline curation, creative and analytical elimination
 
-> optimise for what you want to see more of - @visakanv
+> Optimise for what you want to see more of - @visakanv
 
-When you join the platform (or if you are yet to follow people), I suggest to aggressively based on your interests 
-till you reach say 75% of the threshold; leave some space for mutuals/follow backs.
+When you join the platform (or if you are yet to follow people), I suggest follow aggressively based on your interests 
+till you reach 75% of the threshold; leave some space for mutuals/follow backs.
 
 > This is a discovery process. This is best performed by the creative brain or when your analytical brain is not active (yeah, I know this sounds a hand-wavy but ok). You write first, then you edit. Following aggressively is to write the draft first.
 > 
