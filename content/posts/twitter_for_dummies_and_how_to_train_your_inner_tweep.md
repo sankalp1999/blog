@@ -1,5 +1,5 @@
 ---
-title: "Twitter for dummies and how to bring out your inner Tweep v1.1"
+title: "How to Twitter?"
 date: 2022-11-16T13:01:14+05:30
 draft: false
 
@@ -199,8 +199,11 @@ Finding your tribe/tribes is the essence of Twitter experience and it requires a
 
 You want your tweets to get smashed on other people's faces. For that you need **engagement.** 
 
+
 (click on view analtyics to see number of impressions etc. Also, you have Twitter analytics on the platform which I recommend looking into 
 occasionally, it should not get over your head haha)
+
+![Impressions](/images/impression.png)
 
 - shitposts (dating takes work really well although I don't personally tweet much in this genre for some reasons..)
 - participate in relevant spaces of friends or influential people (Thank you @satyadeeproat)
@@ -295,6 +298,7 @@ Once you have 200-300 followers of tribe, you may choose to nerdpost all the tim
 ## More pointers on making good mutuals
 - The kind of people you attract highly depends on how good you are with words, substance, randomness favouring you(luck), 
 influential accounts following you etc.
+- Always filter your shitposts a bit to avoid turmoil (if you are not anon)
 - shitposting and interacting with all people (outside niche too) works well. IMO, this is the best way to gain like-minded people.
 - interact with people of niche (fast follow back)
 - go to events / college and tell people your twitter id xD (i have not utilised this at all haha)
