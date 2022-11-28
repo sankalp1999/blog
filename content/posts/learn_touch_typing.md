@@ -43,5 +43,5 @@ After you feel a bit comfortable with positioning, you can try tests on monkeyty
 
 Practice with music to reduce subvocalization. (I did this sometimes to relax, I would not push myself unless felt like in such sessions) 
 
-Participate in competitions on 10fastfinger and races on typingracer dot com here and there outside your general regime
+Participate in competitions on 10fastfinger and races on [typingracer](https://play.typeracer.com/) here and there outside your general practice sessions
 
