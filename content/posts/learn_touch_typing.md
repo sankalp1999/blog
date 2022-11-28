@@ -39,9 +39,11 @@ Focus on learning proper positioning and typing without seeing the keyboard firs
 Focus on accuracy and finger positioning. Do not worry much about speed. Although you might very soon notice your speed go up (when your brain has sort of internalised the new mapping). Outside practice sessions, again try to type with proper finger positioning. 
 
 ### Useful tips
-After you feel a bit comfortable with positioning, you can try tests on monkeytype or 10fastfingers to see how fast you can type with proper positioning. (You don't want to revert back to old muscle memory)
+After you feel comfortable with positioning, you can try tests on monkeytype or 10fastfingers to see how fast you can type with proper positioning. (You don't want to revert back to old muscle memory). 
+
+Get better at the top 200 words in 10fastfingers. Then try 1000 words (because your fingers get accustomed with top 200)
 
 Practice with music to reduce subvocalization. (I did this sometimes to relax, I would not push myself unless felt like in such sessions) 
 
-Participate in competitions on 10fastfinger and races on [typingracer](https://play.typeracer.com/) here and there outside your general practice sessions
+Participate in competitions on [10fastfingers](https://10fastfingers.com/) and races on [typingracer](https://play.typeracer.com/) here and there outside your general practice sessions
 
