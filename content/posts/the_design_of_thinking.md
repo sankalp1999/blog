@@ -7,7 +7,7 @@ tags: ["thinking", "randomness"]
 categories: ["ideas"]
 ---
 
-You can read this article as a Twitter thread here {{< tweet user="dejavucoder" id="1493634663872491522" >}}
+You can read this post as a Twitter thread here {{< tweet user="dejavucoder" id="1493634663872491522" >}}
 
 ### The problem solving grind
 

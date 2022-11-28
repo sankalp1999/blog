@@ -4,4 +4,3 @@ date: 2022-11-23T15:10:20+05:30
 draft: true
 ---
 
-![image](/impression.png)
