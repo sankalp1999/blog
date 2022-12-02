@@ -2,6 +2,8 @@
 title: "November"
 date: 2022-12-02T20:45:40+05:30
 draft: false
+
+tags: ["journal", "consumption"]
 ---
 
 ## Good stuff I read this month
@@ -9,14 +11,13 @@ draft: false
 [A lesson to be unlearn](http://www.paulgraham.com/lesson.html)  
 
 
-## Some Recap 
-
 It talks about how school trains us to not learn for tests but 
 prepare by hacking it because most tests are created in such a way that they are hackable.
 Why they are hackable? The creator of the test did not put enough effort to make it unhackable.
 We carry this with us in real life too. Paul discusses how startup founders try to find hacks to 
 raise funding and win at market. However, real world is unhackable.
 
+## Some Recap for me
 
 November was an interesting month. I went for my convocation to Manipal and Mangalore.
 My mom hadn't seen my college. Visited a few temples in Mangalore and a beach near it.
