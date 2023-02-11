@@ -1,7 +1,7 @@
 ---
 title: "November"
 date: 2022-12-02T20:45:40+05:30
-draft: false
+draft: true
 
 tags: ["journal", "consumption"]
 ---
