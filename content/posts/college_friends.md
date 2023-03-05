@@ -7,7 +7,7 @@ draft: false
 
 College is a time when we cross each other's paths in space and time. wildly different paths.
 
-![crossing of paths in space-time](/images/college.jpeg)
+![crossing of paths in space-time](/images/college.png)
 
 Very close friends going for masters, friends going to different cities, batchmates whom you didn't know but are now your colleague or they live near you. You may be in the same city or different cities, nevertheless your lives are different with very different paths. Why I emphasize a different path, it’s because we think we are very similar due to the times when our paths cross, but the non-crossing paths, the aspects of other's lives we don't know, their family background, socio-economic condition & other 1000 different things make the difference.
 
