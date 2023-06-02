@@ -8,3 +8,6 @@ draft: false
 
 
 2. Exploring ["Focusing on what you want to see more of"](https://dejavucoder.substack.com/p/focusing-on-focus-on-what-you-want) - 20th May
+
+
+3. College Friends [College Friends](https://dejavucoder.substack.com/p/college)
