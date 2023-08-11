@@ -11,3 +11,9 @@ draft: false
 
 
 3. College Friends [College Friends](https://dejavucoder.substack.com/p/college)
+
+4. [I think about this often Part 1](https://open.substack.com/pub/dejavucoder/p/i-think-about-it-often-part-1?r=y9t67&utm_campaign=post&utm_medium=web) 
+
+
+
+
